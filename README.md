@@ -1,6 +1,6 @@
-# myapp2
+# flutter_6
 
-A new Flutter project.
+第六章的仿写.
 
 ## Getting Started
 
